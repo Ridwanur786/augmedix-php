@@ -1,7 +1,4 @@
 {
-    "require-dev": {
-        "phpunit/phpunit":"v8"
-    },
     "autoload": {
         "psr-4": {
             "augmedixApp\\":"src\\Class\\"
